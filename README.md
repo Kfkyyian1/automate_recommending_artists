@@ -1,4 +1,4 @@
-# Demo Video [Watch Here](https://youtu.be/WNsV_IZjbcw)
+# Demo Video - [Watch Here](https://youtu.be/WNsV_IZjbcw)
 ## Before Automation
 This task takes approximately 2 minutes. Note that it will take longer if there’s a longer list.
 
