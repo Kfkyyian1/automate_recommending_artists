@@ -1,9 +1,4 @@
 # Demo Video - [Watch Here](https://youtu.be/WNsV_IZjbcw)
-## Before Automation
-This task takes approximately 2 minutes. Note that it will take longer if there’s a longer list.
-
-## With Automation
-After filling in the form, it only took approximately 37 seconds to receive and open the email with the recommended artist list. This is only a quarter of the time compared to before automation as it eliminates the human manual work needed to compile information and send out an email. Additionally, receiving and opening the WhatsApp notification only took 30 seconds. The process with an added-on notification is still at least 40% faster than the process above. 
 
 # Problems
 ## Event Agencies:
@@ -50,6 +45,11 @@ Event agencies and music label
 4. Gmail: Attach sheet with artist information to email before sending out.
 5. JoyForm: Music label to receive new WhatsApp notification regarding new requests. 
 
+# Efficiency
+## Before Automation
+This task takes approximately 2 minutes. Note that it will take longer if there’s a longer list.
 
+## With Automation
+After filling in the form, it only took approximately 37 seconds to receive and open the email with the recommended artist list. This is only a quarter of the time compared to before automation as it eliminates the human manual work needed to compile information and send out an email. Additionally, receiving and opening the WhatsApp notification only took 30 seconds. The process with an added-on notification is still at least 40% faster than the process above. 
 
 
